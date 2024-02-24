@@ -1,13 +1,10 @@
-import Main from "./component/Main";
-import NavBar from "./component/NavBar";
-import Products from "./component/Products";
+
+import Home from "./routes/Home";
 
 function App() {
   return (
     <>
-      <NavBar />
-      <Main />
-      <Products />
+      <Home/>
     </>
   );
 }
