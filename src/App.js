@@ -1,6 +1,6 @@
 import Main from "./component/Main";
 import NavBar from "./component/NavBar";
-import Products from "./routes/Products";
+import Products from "./component/Products";
 
 function App() {
   return (
